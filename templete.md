@@ -1,7 +1,8 @@
 # 今月の目標
-ViewModelを使ったScreenのPreviewを実装し、UIテストにおけるビジネスロジックの分離を理解する
+アプリをデプロイデートにあげる
 # 今月のTry
-* ViewModelを使う際のPreviewの実装
+* AndroidStudioのショートカットやツールの使い方をメモにする
+* 英語を使った検索による調査を行う
 * Qiitaに記事の投稿
 # やったこと
 * 
